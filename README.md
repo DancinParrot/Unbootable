@@ -16,3 +16,8 @@ As of now, the program is really simple, which also means that it can be easily 
 
 # Known Issues
 - Program crashes on Win 7 x86, though will still overwrite MBR
+
+# Credits
+The following resources were of great help to me:  
+[Python and Malware: Writing a simple wiper malware](https://0x00sec.org/t/python-and-malware-writing-a-simple-wiper-malware/31652)
+[Malware Development – Welcome to the Dark Side: Part 2-1](https://niiconsulting.com/checkmate/2018/02/malware-development-welcome-dark-side-part-2-1/)
